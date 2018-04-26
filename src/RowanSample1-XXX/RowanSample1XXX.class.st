@@ -9,3 +9,10 @@ RowanSample1XXX >> xxx [
 
 	^ RowanSample1XXX new
 ]
+
+{ #category : 'accessing' }
+RowanSample1XXX >> xxxtension [
+
+	^ Object new
+
+]
